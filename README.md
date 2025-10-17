@@ -2,6 +2,10 @@
 
 **`Digital Creations in a 3D World`**
 
+<p align="left">
+  I'm a new full-stack develper with a drive to develop my skills and a strong focus on understnading foundational concepts in a deep way. I build all of my projects from the ground up and have a focus on solving realworld problems in "boring" industries with code.
+</p>
+
 
 <!--
 **Crizer-J/Crizer-J** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
