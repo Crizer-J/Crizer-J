@@ -1,4 +1,7 @@
-## Hi there 👋
+# Josh 
+
+**`Digital Creations in a 3D World`**
+
 
 <!--
 **Crizer-J/Crizer-J** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
