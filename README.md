@@ -20,6 +20,7 @@
 <details>
   <summary><h3> 🚁 Professional Story if Your Interested</h3></summary>
     Music, turned military, turned aviation, turned tech.
+    ***I'll fill the rest of this in later.***
     
   
     
