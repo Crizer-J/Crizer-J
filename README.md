@@ -1,10 +1,18 @@
-# Josh 
-
+# 🐢 > 🐇 Josh  
 **`Digital Creations in a 3D World`**
 
 <p align="left">
-  I'm a new full-stack develper with a drive to develop my skills and a strong focus on understnading foundational concepts in a deep way. I build all of my projects from the ground up and have a focus on solving realworld problems in "boring" industries with code.
+  I'm a new full-stack develper with a drive to develop my skills and a strong focus on understnading foundational concepts in a deep way. I build all of my projects from the ground up and have a focus on solving realworld problems in "boring" industries with code. 
 </p>
+---
+### Languages 
+<img align="left" alt="Java" width="26px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img align="left" alt="Java" width="26px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img align="left" alt="Java" width="26px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+<img align="left" alt="Java" width="26px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+<img align="left" alt="Java" width="26px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+          
+          
 
 
 <!--
