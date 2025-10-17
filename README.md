@@ -18,8 +18,11 @@
 ---
 
 <details>
-  <summary><h3> 🚁 Professional Story</h3><summary>
+  <summary><h3> 🚁 Professional Story if Your Interested</h3>
     Music, turned military, turned aviation, turned tech.
+    
+  <summary>
+    
 </details>
 
 <!--
