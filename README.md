@@ -17,6 +17,10 @@
 
 ---
 
+<details>
+  <summary><h3> 🚁 Professional Story</h3><summary>
+    Music, turned military, turned aviation, turned tech.
+</details>
 
 <!--
 **Crizer-J/Crizer-J** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
